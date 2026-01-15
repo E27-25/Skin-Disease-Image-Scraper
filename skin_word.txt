@@ -1,0 +1,185 @@
+=================================================
+DISEASE COUNT SUMMARY
+==================================================
+Total rows in CSV : 4000
+Unique diseases  : 178
+--------------------------------------------------
+squamous cell carcinoma                  138
+basal cell carcinoma                     131
+psoriasis                                127
+melanocytic nevi                         119
+lupus erythematosus                      95
+lichen planus                            92
+scleroderma                              81
+photodermatoses                          76
+acne vulgaris                            76
+sarcoidosis                              75
+seborrheic keratosis                     72
+scabies                                  70
+allergic contact dermatitis              70
+neutrophilic dermatoses                  69
+mycosis fungoides                        68
+folliculitis                             60
+melanoma                                 57
+verruca vulgaris                         50
+erythema multiforme                      50
+drug eruption                            48
+pityriasis rubra pilaris                 48
+acne                                     46
+prurigo nodularis                        43
+eczema                                   43
+nematode infection                       43
+actinic keratosis                        42
+granuloma annulare                       42
+pityriasis rosea                         39
+vitiligo                                 38
+pyogenic granuloma                       37
+epidermal cyst                           35
+dermatomyositis                          35
+hailey hailey disease                    35
+dermatofibroma                           34
+seborrheic dermatitis                    31
+porphyria                                31
+urticaria                                31
+kaposi sarcoma                           30
+porokeratosis actinic                    30
+stevens johnson syndrome                 29
+tuberous sclerosis                       29
+squamous cell carcinoma in situ          28
+telangiectases                           27
+lyme disease                             27
+juvenile xanthogranuloma                 27
+lupus subacute                           27
+keloid                                   26
+pediculosis lids                         26
+necrobiosis lipoidica                    25
+pilar cyst                               25
+milia                                    25
+urticaria pigmentosa                     25
+dariers disease                          25
+papilomatosis confluentes and reticulate 24
+neurofibromatosis                        24
+acrodermatitis enteropathica             23
+lentigo maligna                          23
+erythema annulare centrifigum            23
+syringoma                                23
+fixed eruptions                          22
+rosacea                                  22
+epidermal nevus                          21
+halo nevus                               21
+cheilitis                                21
+lymphangioma                             21
+mucous cyst                              21
+malignant melanoma                       21
+porokeratosis of mibelli                 20
+incontinentia pigmenti                   20
+xeroderma pigmentosum                    20
+lichen amyloidosis                       20
+fordyce spots                            20
+acrochordon                              19
+lichen simplex                           19
+tick bite                                19
+nevus sebaceous of jadassohn             19
+dyshidrotic eczema                       19
+ehlers danlos syndrome                   19
+acquired autoimmune bullous diseaseherpes gestationis 19
+tungiasis                                19
+erythema nodosum                         19
+striae                                   18
+perioral dermatitis                      18
+superficial spreading melanoma ssm       18
+scleromyxedema                           18
+rhinophyma                               17
+aplasia cutis                            17
+keratosis pilaris                        17
+congenital nevus                         17
+port wine stain                          17
+dysplastic nevus                         16
+xanthomas                                16
+hidradenitis                             16
+mucinosis                                15
+nevocytic nevus                          15
+solid cystic basal cell carcinoma        15
+seborrheic keratosis irritated           14
+basal cell carcinoma morpheiform         14
+acanthosis nigricans                     14
+paronychia                               14
+calcinosis cutis                         14
+langerhans cell histiocytosis            14
+stasis edema                             13
+factitial dermatitis                     13
+naevus comedonicus                       13
+epidermolysis bullosa                    13
+neurofibroma                             12
+pustular psoriasis                       12
+neurodermatitis                          12
+pityriasis lichenoides chronica          12
+disseminated actinic porokeratosis       12
+ichthyosis vulgaris                      12
+angioma                                  11
+becker nevus                             11
+erythema elevatum diutinum               11
+neurotic excoriations                    11
+drug induced pigmentary changes          11
+pilomatricoma                            11
+eccrine poroma                           10
+behcets disease                          10
+livedo reticularis                       10
+granuloma pyogenic                       9
+sun damaged skin                         9
+squamous cell carcinoma keratoacanthoma  8
+myiasis                                  8
+melanoma acral lentiginous               7
+lipoma                                   6
+blue nevus                               6
+basal cell carcinoma nodular             6
+nevus lipomatosus superficialis          6
+molluscum contagiosum                    6
+melanoma in situ                         5
+inverted follicular keratosis            5
+metastatic carcinoma                     5
+eczema spongiotic dermatitis             4
+solar lentigo                            4
+hyperpigmentation                        3
+abrasions ulcerations and physical injuries 3
+trichilemmoma                            3
+benign keratosis                         3
+arteriovenous hemangioma                 3
+basal cell carcinoma superficial         2
+foreign body granuloma                   2
+acquired digital fibrokeratoma           2
+syringocystadenoma papilliferum          2
+onychomycosis                            2
+trichofolliculoma                        2
+scar                                     2
+xanthogranuloma                          2
+condyloma accuminatum                    2
+fibrous papule                           2
+graft vs host disease                    2
+subcutaneous t cell lymphoma             1
+focal acral hyperkeratosis               1
+wart                                     1
+lymphocytic infiltrations                1
+angioleiomyoma                           1
+hematoma                                 1
+atypical spindle cell nevus of reed      1
+acne cystic                              1
+verruciform xanthoma                     1
+morphea                                  1
+neuroma                                  1
+nodular melanoma (nm)                    1
+pigmented spindle cell nevus of reed     1
+glomangioma                              1
+cellular neurothekeoma                   1
+lichenoid keratosis                      1
+reactive lymphoid hyperplasia            1
+coccidioidomycosis                       1
+leukemia cutis                           1
+sebaceous carcinoma                      1
+chondroid syringoma                      1
+tinea pedis                              1
+clear cell acanthoma                     1
+abscess                                  1
+blastic plasmacytoid dendritic cell neoplasm 1
+acral melanotic macule                   1
+==================================================

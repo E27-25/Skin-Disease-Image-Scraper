@@ -1,0 +1,6 @@
+# Requirements for Skin Disease Image Scraper
+# Install with: pip install -r requirements.txt
+
+icrawler>=0.6.6
+Pillow>=9.0.0
+requests>=2.28.0
