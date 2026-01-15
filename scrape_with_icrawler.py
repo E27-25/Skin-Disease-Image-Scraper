@@ -16,7 +16,7 @@ from icrawler.builtin import GoogleImageCrawler, BingImageCrawler
 
 
 # Configuration
-IMAGES_PER_SEARCH = 50  # Number of images to download per search term
+IMAGES_PER_SEARCH = 100  # Number of images to download per search term
 OUTPUT_DIR = "scraped_images"
 USE_BING = True  # Using Bing - more reliable for automated scraping
 
